@@ -49,3 +49,22 @@ Nightmare Mode is the more challenging difficulty. The game increases the player
 ## 💻 Source Code
 The game was programmed in Arduino C++ and includes the game logic, LED sequences, button input, LCD output, scoring system, and sound effects.
 [`MemoryGame.ino`](src/MemoryGame.ino)
+
+## 🧠 What I Learned
+Through this project, I gained hands-on experience with Arduino programming, circuit design, digital input and output, and hardware-software integration. I also improved my understanding of arrays, control structures, random sequence generation, and debugging.
+
+## 👥 My Contribution
+This project was completed as part of a group assignment. My main contributions included:
+* Developing most of the Arduino C++ code and game logic
+* Designing and connecting the circuit components
+* Contributing to the initial idea and brainstorming the game concept
+* Testing and debugging the system during development
+
+## 🚀 Future Improvements
+- Optimize the Arduino C++ code to make it cleaner, more efficient, and easier to maintain
+- Reduce repeated code by using reusable functions
+- Improve the game logic and simplify the control flow
+- Add more difficulty levels
+- Improve the scoring system
+- Add persistent high-score storage
+- Improve the physical enclosure and user interface

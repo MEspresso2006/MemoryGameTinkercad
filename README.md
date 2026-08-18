@@ -47,5 +47,5 @@ Nightmare Mode is the more challenging difficulty. The game increases the player
 ![Nightmare Mode](images/NightmareMode.png)
 
 ## 💻 Source Code
-The Arduino C++ source code for the memory game is available here:
-[View the source code](src/MemoryGame.ino)
+The game was programmed in Arduino C++ and includes the game logic, LED sequences, button input, LCD output, scoring system, and sound effects.
+[View `MemoryGame.ino`](src/MemoryGame.ino)

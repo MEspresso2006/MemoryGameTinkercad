@@ -24,7 +24,7 @@ The circuit was designed and simulated using Tinkercad Circuits. It connects an 
 
 ## 🎥 Demo
 A short demonstration of the physical Arduino Memory Game in action.
-[▶️ Watch the Game Demo](videos/GameDemo.mp4)
+[▶️ Watch the Game Demo](https://github.com/user-attachments/assets/f437232f-3cb1-4795-9b20-be5271aeef8a)
 
 ## ⚙️ How It Works
 1. The player selects either Peaceful Mode or Nightmare Mode.

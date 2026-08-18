@@ -45,3 +45,7 @@ Peaceful Mode is the standard difficulty. The player follows the generated LED s
 ### Nightmare Mode
 Nightmare Mode is the more challenging difficulty. The game increases the player's progress less predictably, making the sequence harder to follow.
 ![Nightmare Mode](images/NightmareMode.png)
+
+## 💻 Source Code
+The Arduino C++ source code for the memory game is available here:
+[View the source code](src/MemoryGame.ino)

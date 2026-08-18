@@ -19,7 +19,19 @@ It includes two difficulty modes, a scoring system, and randomly generated light
 - High-score display and reset option
 
 ## 🔌 Circuit Design
-
 The circuit was designed and simulated using Tinkercad Circuits. It connects an Arduino Uno with four LEDs, four push buttons, an I2C LCD display, and a buzzer to create the memory game.
+![Arduino Memory Game Circuit](images/CircuitOverview.png)
 
-![Arduino Memory Game Circuit]()
+## ⚙️ How It Works
+1. The player selects either Peaceful Mode or Nightmare Mode.
+2. The Arduino generates a random sequence of LED lights.
+3. The LEDs flash in sequence with sound feedback from the buzzer.
+4. The player repeats the sequence using the corresponding push buttons.
+5. The program checks the player's input against the generated sequence.
+6. If the sequence is correct, the score increases and the player continues to the next level.
+7. If the sequence is incorrect, the game ends and the score is recorded.
+
+## 🎥 Demo
+A short demonstration of the Arduino Memory Game running in Tinkercad.
+
+[▶️ Watch the Game Demo](videos/GameDemo.mp4)
